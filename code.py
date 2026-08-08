@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 """
-Day 35: YouTube Chatbot Using LangChain
+YouTube Chatbot Using LangChain
 
 Why this project?
 Some videos are 2 to 3 hours long. Our solution aims to solve this problem by enabling custom Q&A over video contents.
